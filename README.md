@@ -2,6 +2,8 @@
 
 A collection of reusable Claude Code skills — slash commands that automate common development workflows directly in your terminal.
 
+![Claude Code running the /ship command](assets/ship.png)
+
 ## What's a skill?
 
 Skills are markdown files that Claude Code loads as slash commands. Drop one into your project's `skills/` directory (or a global skills folder), and it becomes a `/command` you can invoke mid-conversation. Each skill defines a specific workflow with step-by-step instructions that Claude follows precisely.
